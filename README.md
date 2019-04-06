@@ -4,11 +4,11 @@ Read more about this assessment here
 
 ## Setup
 
-1. clone
-2. npm install
+1. `git clone git@github.com:JH108/eog-drone-sinewave.git`
+2. `npm install`
 3. Get Google Maps API key either from here: [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key) or you can use an existing key
-   1. Put Key in .env file at the root of the project, make sure you name it REACT_APP_MAPS_API_KEY
-4. npm start
+   1. Put Key in `.env` file at the root of the project, make sure you name it REACT_APP_MAPS_API_KEY
+4. `npm start`
 
 ## Improvements that can be made to the test
 
