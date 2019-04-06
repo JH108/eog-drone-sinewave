@@ -1,7 +1,9 @@
-import findLocationByLatLng from "./findLocationByLatLng";
-import findWeatherbyId from "./findWeatherById";
+import findLocationByLatLng from './findLocationByLatLng';
+import findWeatherbyId from './findWeatherById';
+import getDroneData from './getDroneData';
 
 export default {
-  findLocationByLatLng,
-  findWeatherbyId
+	findLocationByLatLng,
+	findWeatherbyId,
+	getDroneData,
 };
